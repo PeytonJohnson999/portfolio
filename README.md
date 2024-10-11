@@ -16,3 +16,8 @@ Though I consider myself most proficient with Rust, these are all of the program
 - Javascript
 - Java
 - Lua
+
+## Relevant Experience
+- Part of the Robotics team 2183 since I was a freshman
+- While taking OperationSpark's webdev course, I collaborated with my classmates to fix problems in my projects
+- 
